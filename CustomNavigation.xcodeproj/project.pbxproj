@@ -49,6 +49,7 @@
 		9F545DA82C73CDAF00FA05B3 = {
 			isa = PBXGroup;
 			children = (
+				9F2E5DCF2C7BCCE000FEA675 /* README.md */,
 				9F545DB32C73CDAF00FA05B3 /* CustomNavigation */,
 				9F545DB22C73CDAF00FA05B3 /* Products */,
 			);
@@ -65,7 +66,6 @@
 		9F545DB32C73CDAF00FA05B3 /* CustomNavigation */ = {
 			isa = PBXGroup;
 			children = (
-				9F2E5DCF2C7BCCE000FEA675 /* README.md */,
 				9F545DC22C73CDBE00FA05B3 /* TabModel.swift */,
 				9F545DB42C73CDAF00FA05B3 /* CustomNavigationApp.swift */,
 				9F545DB62C73CDAF00FA05B3 /* ContentView.swift */,
