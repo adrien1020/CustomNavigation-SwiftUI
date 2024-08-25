@@ -12,6 +12,7 @@
 		9F1635282C791D31008F018B /* VehicleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1635272C791D31008F018B /* VehicleView.swift */; };
 		9F16352A2C792579008F018B /* StatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F1635292C792579008F018B /* StatusView.swift */; };
 		9F16352C2C792DA1008F018B /* ReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F16352B2C792DA1008F018B /* ReviewView.swift */; };
+		9F2E5DD02C7BCCE000FEA675 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9F2E5DCF2C7BCCE000FEA675 /* README.md */; };
 		9F545DB52C73CDAF00FA05B3 /* CustomNavigationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F545DB42C73CDAF00FA05B3 /* CustomNavigationApp.swift */; };
 		9F545DB72C73CDAF00FA05B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F545DB62C73CDAF00FA05B3 /* ContentView.swift */; };
 		9F545DB92C73CDB000FA05B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F545DB82C73CDB000FA05B3 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 		9F1635272C791D31008F018B /* VehicleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleView.swift; sourceTree = "<group>"; };
 		9F1635292C792579008F018B /* StatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatusView.swift; sourceTree = "<group>"; };
 		9F16352B2C792DA1008F018B /* ReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewView.swift; sourceTree = "<group>"; };
+		9F2E5DCF2C7BCCE000FEA675 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9F545DB12C73CDAF00FA05B3 /* CustomNavigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomNavigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F545DB42C73CDAF00FA05B3 /* CustomNavigationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationApp.swift; sourceTree = "<group>"; };
 		9F545DB62C73CDAF00FA05B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 		9F545DB32C73CDAF00FA05B3 /* CustomNavigation */ = {
 			isa = PBXGroup;
 			children = (
+				9F2E5DCF2C7BCCE000FEA675 /* README.md */,
 				9F545DC22C73CDBE00FA05B3 /* TabModel.swift */,
 				9F545DB42C73CDAF00FA05B3 /* CustomNavigationApp.swift */,
 				9F545DB62C73CDAF00FA05B3 /* ContentView.swift */,
@@ -143,6 +146,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F2E5DD02C7BCCE000FEA675 /* README.md in Resources */,
 				9F545DBC2C73CDB000FA05B3 /* Preview Assets.xcassets in Resources */,
 				9F545DB92C73CDB000FA05B3 /* Assets.xcassets in Resources */,
 			);
